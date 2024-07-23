@@ -10,10 +10,14 @@
 #endif
 
 #include "_unstdcommon.h"
-#include "unstdinttypes.h"
 #include "unstdbool.h"
-#include "unstdmemory.h"
-#include "unstdstring.h"
+#include "unstdinttypes.h"
+#include "unstdinternal.h"
 #include "unstdio.h"
+#include "unstditertools.h"
+#include "unstdmemory.h"
+#include "unstdpair.h"
+#include "unstdstring.h"
+#include "unstdvector.h"
 
 #endif /* UNSTDLIB_H */
